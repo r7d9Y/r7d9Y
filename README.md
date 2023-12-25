@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @r7d9Y
 - 👀 I’m interested in learning how to code usefull stuff
-- 🌱 I’m currently learning java , js and python
+- 🌱 I’m currently learning Java, JS and Python
 - 💞️ I’m looking to collaborate on usefull tools
 - 📫 How to reach me: Rand7Y9@gmail.com
 
