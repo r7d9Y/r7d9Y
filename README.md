@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @r7d9Y
 - 👀 I’m interested in learning how to code and script usefull stuff
-- 🌱 I’m currently learning Java, JS, Python and Powershell
+- 🌱 I’m currently learning Java & Python
 - 💞️ I’m looking to collaborate on smallers projects
 - 📫 How to reach me: Rand7Y9@gmail.com
 
